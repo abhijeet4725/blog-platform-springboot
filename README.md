@@ -101,6 +101,6 @@ Run the application:
 Repository
 GitHub Repository: https://github.com/abhijeet4725/blog-platform-springboot
 
-Autho:
+Author:
 Abhijeet Singh
 Development Blog: https://blog-springboot-project.hashnode.dev
